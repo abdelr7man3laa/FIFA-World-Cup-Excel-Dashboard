@@ -76,7 +76,7 @@ The dashboard provides interactive insights into:
 
 | File | Description |
 |------|-------------|
-| Dashboard.xlsx | Excel dashboard |
+| WorldCupMatches.xlsx | Excel dashboard |
 | Dashboard.pdf | Dashboard report |
 | Dashboard.png | Dashboard preview |
 | Dataset/ | Source dataset |
